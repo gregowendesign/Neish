@@ -21,9 +21,11 @@ body {
 	font-size: 2em;
 }
 
-.neish {
+.top-bar {
 	width: 100%;
-	height: auto;
-	background-image: url('../img/Neish_Visual-Identity-Pres_2.jpg');
-	background-size: cover;
+	background-color: #000;
+	height: 186px;
+	position: absolute;
+	top: 0;
+	z-index: -999;
 }
