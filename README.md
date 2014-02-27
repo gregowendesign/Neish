@@ -1,5 +1,5 @@
-# Pitch
+# Daughter + Neish
 
-A simple empty boilerplate for a fresh start
+ - A visual direction
 
 Auto commited via [Mixture](http://mixture.io)
